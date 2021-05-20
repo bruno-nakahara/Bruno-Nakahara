@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - :computer: &nbsp; Python | NodeJS 
 - :globe_with_meridians: &nbsp; JavaScript | ReactJS | Next.js
-- :oil drum: &nbsp; PostgreSQL 
+- :oil_drum: &nbsp; PostgreSQL 
 - :wrench: &nbsp; Git | SASS
 
 <br/>
