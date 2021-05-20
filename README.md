@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h2> Hey there! I'm Bruno.</h2>
 
-<h3> :man_technologist_tone1: About Me </h3>
+<h3> 	:frowning_man: About Me </h3>
 
 - :thinking: &nbsp; Exploring frontend and backend technologies, software architecture and developing software solutions.
 - :briefcase: &nbsp; Looking for opportunities as a Developer.
@@ -27,12 +27,12 @@ Here are some ideas to get you started:
 - :computer: &nbsp; Python | NodeJS 
 - :globe_with_meridians: &nbsp; JavaScript | ReactJS | Next.js
 - :oil: &nbsp; PostgreSQL 
-- :wrench: &nbsp; Git
+- :wrench: &nbsp; Git | SASS
 
 <br/>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="www.linkedin.com/in/bruno-hideki-silva-nakahara-a6749012a">Linkedin</a>
- </p>
+<a href="www.linkedin.com/in/bruno-hideki-silva-nakahara-a6749012a</a>
+</p>
