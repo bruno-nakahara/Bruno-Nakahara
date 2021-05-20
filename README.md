@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 - :briefcase: &nbsp; Looking for opportunities as a Developer.
 - :seedling: &nbsp; Learning more about React and NextJS.
 
-<h3>:wrench: Tech Stack</h3>
+<h3>:toolbox: Tech Stack</h3>
 
 - :computer: &nbsp; Python | NodeJS 
 - :globe_with_meridians: &nbsp; JavaScript | ReactJS | Next.js
-- :oil: &nbsp; PostgreSQL 
+- :oil drum: &nbsp; PostgreSQL 
 - :wrench: &nbsp; Git | SASS
 
 <br/>
