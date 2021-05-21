@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="www.linkedin.com/in/bruno-hideki-silva-nakahara-a6749012a</a>
+<a href="www.linkedin.com/in/bruno-hideki-silva-nakahara-a6749012a">Linkdin</a>
 </p>
