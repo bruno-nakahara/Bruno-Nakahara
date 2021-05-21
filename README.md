@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 <p align="center">
   [Linkedin](www.linkedin.com/in/bruno-hideki-silva-nakahara-a6749012a)
-</p>
+
