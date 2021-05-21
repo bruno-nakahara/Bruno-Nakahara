@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-[Linkedin](www.linkedin.com/in/bruno-hideki-silva-nakahara)
+[Linkedin](https://www.linkedin.com/in/bruno-hideki-silva-nakahara-a6749012a/)
 
 
