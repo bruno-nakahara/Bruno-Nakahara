@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <h3>:toolbox: Tech Stack</h3>
 
 - :computer: &nbsp; Python | NodeJS 
-- :globe_with_meridians: &nbsp; JavaScript | ReactJS | Next.js
+- :globe_with_meridians: &nbsp; JavaScript | ReactJS | Next.js | Typescript
 - :oil_drum: &nbsp; PostgreSQL 
 - :wrench: &nbsp; Git | SASS
 
