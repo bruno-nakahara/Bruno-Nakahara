@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-nakahara)](https://github.com/bruno-nakahara/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-nakahara)](https://github.com/bruno-nakahara)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
