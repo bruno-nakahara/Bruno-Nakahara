@@ -31,8 +31,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-nakahara)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-nakahara&show_icons=true&theme=dark)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
