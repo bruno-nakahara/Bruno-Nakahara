@@ -33,11 +33,6 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-nakahara&show_icons=true&theme=tokyonight)
 
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-nakahara)](https://github.com/bruno-nakahara)
-
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 [Linkedin](https://www.linkedin.com/in/bruno-hideki-silva-nakahara-a6749012a/)
