@@ -31,6 +31,9 @@ Here are some ideas to get you started:
 
 <br/>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-nakahara)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 [Linkedin](https://www.linkedin.com/in/bruno-hideki-silva-nakahara-a6749012a/)
