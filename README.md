@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 - :thinking: &nbsp; Exploring frontend and backend technologies, software architecture and developing software solutions.
 - :briefcase: &nbsp; Looking for opportunities as a Developer.
-- :seedling: &nbsp; Learning more about React and NextJS.
+- :seedling: &nbsp; Learning more about React, NextJS and Java.
 
 <h3>:toolbox: Tech Stack</h3>
 
-- :computer: &nbsp; Python | NodeJS 
+- :computer: &nbsp; Python | NodeJS | Java
 - :globe_with_meridians: &nbsp; JavaScript | ReactJS | Next.js | Typescript
 - :oil_drum: &nbsp; PostgreSQL 
 - :wrench: &nbsp; Git | SASS
