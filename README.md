@@ -18,9 +18,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-nakahara&show_icons=true&theme=tokyonight)
 
-<span>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-nakahara&hide=css,html)](https://github.com/bruno-nakahara/github-readme-stats)
-</span>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-nakahara&hide=css,html)](https://github.com/bruno-nakahara/github-readme-stats)
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
