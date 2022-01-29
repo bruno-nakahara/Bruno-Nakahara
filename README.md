@@ -18,8 +18,13 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-nakahara&show_icons=true&theme=tokyonight)
 
+<span>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-nakahara&hide=css,html)](https://github.com/bruno-nakahara/github-readme-stats)
+</span>
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 [Linkedin](https://www.linkedin.com/in/bruno-hideki-silva-nakahara-a6749012a/)
+
 
 
