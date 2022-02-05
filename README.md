@@ -11,7 +11,7 @@
 
 - :computer: &nbsp; Python | NodeJS | Java
 - :globe_with_meridians: &nbsp; JavaScript | ReactJS | Next.js | Typescript
-- :oil_drum: &nbsp; PostgreSQL 
+- :oil_drum: &nbsp; PostgreSQL | MongoDB
 - :wrench: &nbsp; Git | SASS
 
 <br/>
