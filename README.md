@@ -12,7 +12,7 @@
 - :computer: &nbsp; Python | NodeJS | Java
 - :globe_with_meridians: &nbsp; JavaScript | ReactJS | Next.js | Typescript
 - :oil_drum: &nbsp; PostgreSQL | MongoDB
-- :wrench: &nbsp; Git | SASS
+- :wrench: &nbsp; Git | SASS | Bootstrap | Chakra UI 
 
 <br/>
 
