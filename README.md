@@ -9,10 +9,10 @@
 
 <h3>:toolbox: Tech Stack</h3>
 
-- :computer: &nbsp; Python | NodeJS | Java
+- :computer: &nbsp; Python | NodeJS | Java | Flask
 - :globe_with_meridians: &nbsp; JavaScript | ReactJS | Next.js | Typescript
 - :oil_drum: &nbsp; PostgreSQL | MongoDB
-- :wrench: &nbsp; Git | SASS | Bootstrap | Chakra UI 
+- :wrench: &nbsp; Git | SASS | Bootstrap | Chakra UI | Styled Components
 
 <br/>
 
