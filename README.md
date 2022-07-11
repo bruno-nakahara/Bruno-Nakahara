@@ -5,11 +5,11 @@
 
 - :thinking: &nbsp; Exploring frontend and backend technologies, software architecture and developing software and web solutions.
 - :briefcase: &nbsp; Looking for opportunities as a Developer.
-- :seedling: &nbsp; Learning more about React, NextJS and Java.
+- :seedling: &nbsp; Learning more about React, NextJS, NodeJS, NestJS and React Native.
 
 <h3>:toolbox: Tech Stack</h3>
 
-- :computer: &nbsp; Python | NodeJS | Java | Flask
+- :computer: &nbsp; Python | NodeJS 
 - :globe_with_meridians: &nbsp; JavaScript | ReactJS | Next.js | Typescript
 - :oil_drum: &nbsp; PostgreSQL | MongoDB
 - :wrench: &nbsp; Git | SASS | Bootstrap | Chakra UI | Styled Components
