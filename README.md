@@ -3,9 +3,8 @@
 
 <h3> 	:frowning_man: About Me </h3>
 
-- :thinking: &nbsp; Exploring frontend and backend technologies, software architecture and developing software and web solutions.
-- :briefcase: &nbsp; Looking for opportunities as a Developer.
-- :seedling: &nbsp; Learning more about React, NextJS, NodeJS, NestJS and React Native.
+- :thinking: &nbsp; Exploring frontend and backend technologies, software architecture and developing software and web/mobile solutions.
+- :seedling: &nbsp; Learning more about React, NextJS, NodeJS, Typescript and React Native.
 
 <h3>:toolbox: Tech Stack</h3>
 
