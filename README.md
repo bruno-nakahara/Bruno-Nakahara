@@ -5,11 +5,13 @@
 
 - :thinking: &nbsp; Exploring frontend and backend technologies, software architecture and developing software and web/mobile solutions.
 - :seedling: &nbsp; Learning more about React, NextJS, NodeJS, Typescript and React Native.
+- 🔭 I’m currently working as Full-Stack Developer
 
 <h3>:toolbox: Tech Stack</h3>
 
 - :computer: &nbsp; Python | NodeJS 
 - :globe_with_meridians: &nbsp; JavaScript | ReactJS | Next.js | Typescript
+- :globe_with_meridians: &nbsp; React Native
 - :oil_drum: &nbsp; PostgreSQL | MongoDB
 - :wrench: &nbsp; Git | SASS | Bootstrap | Chakra UI | Styled Components
 
