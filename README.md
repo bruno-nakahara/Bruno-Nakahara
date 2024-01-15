@@ -4,7 +4,7 @@
 <h3> 	:frowning_man: About Me - I’m currently working as Full-Stack Developer </h3>
 
 - :thinking: &nbsp; Exploring frontend and backend technologies, software architecture and developing software and web/mobile solutions.
-- :seedling: &nbsp; Learning more about React, NextJS, NodeJS, Typescript and React Native.
+- :seedling: &nbsp; Learning more about Golang and devops.
 
 <h3>:toolbox: Tech Stack</h3>
 
